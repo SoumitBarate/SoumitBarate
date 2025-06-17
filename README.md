@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soumit Barate</h1>
 <h3 align="center">Data Analytics • Python • SQL • Power BI</h3>
 
-- 🔭 I’m currently working on **Excel Dashboard Project**
+- 🔭 I’m currently working on **Multiple Data Analytics Projects – Focused on turning raw data into actionable insights using Excel, Python, and SQL.**
 
-- 🌱 I’m currently learning **Machine Learning .**
+- 🌱 I’m currently learning **Machine Learning.**
 
 - 👯 I’m looking to collaborate on **data analytics projects, open-source contributions, or academic research involving data cleaning, exploratory analysis, dashboard creation, or predictive modeling using tools such as Python, SQL, Power BI, or Tableau.**
 

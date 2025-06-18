@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **soumitb.ecf@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1biA69IVTKMz7qB_2bH_cz0Ff5GzbVIF1/view?usp=sharing](https://drive.google.com/file/d/1biA69IVTKMz7qB_2bH_cz0Ff5GzbVIF1/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1biA69IVTKMz7qB_2bH_cz0Ff5GzbVIF1/view?usp=sharing](https://drive.google.com/file/d/1VR_jwslbPJKpoEEk_L3LBmkG5FGck7sv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

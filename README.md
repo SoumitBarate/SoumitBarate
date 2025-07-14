@@ -1,19 +1,28 @@
 <h1 align="center">Hi 👋, I'm Soumit Barate</h1>
 <h3 align="center">Data Analytics • Python • SQL • Power BI</h3>
+<table>
+  <tr>
+    <td>
+      
+- 🔭 I’m currently working on **multiple Data Analytics projects**
+- 🌱 Learning **Machine Learning**
+- 👯 Looking to collaborate on **Data & ML Projects**
+- 💬 Ask me about **Python, SQL, Power BI**
+- 📫 Reach me at **soumitb.ecf@gmail.com**
 
-- 🔭 I’m currently working on **Multiple Data Analytics Projects – Focused on turning raw data into actionable insights using Excel, Python, and SQL.**
+    </td>
+    <td>
+      <img
+        src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+        alt="Animated coding GIF"
+        width="950"
+      />
+    </td>
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **Machine Learning.**
 
-- 👯 I’m looking to collaborate on **data analytics projects, open-source contributions, or academic research involving data cleaning, exploratory analysis, dashboard creation, or predictive modeling using tools such as Python, SQL, Power BI, or Tableau.**
-
-- 🤝 I’m looking for help with **advanced data visualization techniques, machine learning model building, and improving the structure of real-world data projects.**
-
-- 💬 Ask me about **Are you also interested in machine learning or just sticking to core analytics and BI tools?**
-
-- 📫 How to reach me **soumitb.ecf@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1biA69IVTKMz7qB_2bH_cz0Ff5GzbVIF1/view?usp=sharing](https://drive.google.com/file/d/1VR_jwslbPJKpoEEk_L3LBmkG5FGck7sv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1biA69IVTKMz7qB_2bH_cz0Ff5GzbVIF1/view?usp=sharing](https://drive.google.com/file/d/16mqjgEso2V-Uxo_TYYYKykT04SzULokM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -14,7 +14,7 @@
     </td>
     <td>
       <img
-        src="https://drive.google.com/file/d/1IWigKTvD3Sd2MuRYI_38JDroIBd6BiYq/view?usp=sharing"
+        src="image.avif"
         alt="Animated coding GIF"
         width="950"
       />

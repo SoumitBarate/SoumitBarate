@@ -5,11 +5,10 @@
   <tr>
     <td>
       
-- 🔭 I’m currently working on **multiple Data Analytics projects**  
-- 🌱 Learning **Machine Learning**  
-- 👯 Looking to collaborate on **Data & ML Projects**  
-- 💬 Ask me about **Python, SQL, Power BI**  
-- 📫 Reach me at **soumitb.ecf@gmail.com**  
+- 🔭 Currently working on multiple **Data Analytics projects**, focusing on data processing, visualization, and generating actionable insights
+- 👯 Open to collaborating on **Data Analytics projects**
+- 💬 Skilled in **Python**, **SQL**, and **Power BI**, with hands-on experience in building data-driven solutions
+- 📫 Reach me at **soumitb.ecf@gmail.com**
 
     </td>
     <td>

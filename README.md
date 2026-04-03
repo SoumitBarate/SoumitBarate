@@ -36,7 +36,7 @@ Beyond coding, I'm passionate about storytelling. I run a YouTube channel called
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soumitbarate" target="blank">
+<a href="https://www.linkedin.com/in/soumit-barate-05b22b400/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumit barate" height="30" width="40" />
 </a>
 </p>

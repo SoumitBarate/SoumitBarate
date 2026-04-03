@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/11wxB3JUVvLVDY4b6VIpxIYhDFcq7i8uu/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/folders/1jICi6M8GyoWezorKA9lKwHSbNpT5WN_o)
 
 ---
 

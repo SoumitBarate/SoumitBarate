@@ -25,14 +25,6 @@
 
 ---
 
-<h3 align="left">🎥 Content Creator – Lost Epics</h3>
-<p align="left">
-Beyond coding, I'm passionate about storytelling. I run a YouTube channel called <a href="https://www.youtube.com/@LostEpics" target="_blank"><strong>Lost Epics</strong></a>, where I explore ancient myths, historical secrets, and unsolved mysteries from India and around the world. 
-<br>It's my creative outlet and part of my daily habit — where I research, script, edit, and publish engaging content that blends history with curiosity.
-</p>
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/soumit-barate-05b22b400/" target="blank">

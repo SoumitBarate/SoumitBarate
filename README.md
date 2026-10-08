@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Soumit Barate</h1>
-<h3 align="center">Data Analytics • Python • SQL • Power BI</h3>
+<h3 align="center">Big Data • Data Engineering • Python • SQL • Power BI</h3>
 
 <table>
   <tr>
     <td>
-      
-- 🔭 Currently working on multiple **Data Analytics projects**, focusing on data processing, visualization, and generating actionable insights
-- 👯 Open to collaborating on **Data Analytics projects**
-- 💬 Skilled in **Python**, **SQL**, and **Power BI**, with hands-on experience in building data-driven solutions
-- 📫 Reach me at **soumitb.ecf@gmail.com**
+
+* 🔭 Currently learning and working with **Big Data technologies** and data engineering concepts
+* 🌱 Developing hands-on skills in **Hadoop, Hive, PySpark, Kafka, Airflow, and SQL**
+* 💻 Experienced in **Python, SQL, Power BI**, and data processing
+* 📊 Interested in **Big Data Analytics, Data Engineering, ETL/ELT pipelines, and data-driven solutions**
+* 👯 Open to collaborating on **Big Data and Data Engineering projects**
+* 📫 Reach me at **[soumitb.ecf@gmail.com](mailto:soumitb.ecf@gmail.com)**
 
     </td>
     <td>
@@ -19,51 +21,29 @@
       />
     </td>
   </tr>
+
 </table>
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/folders/1jICi6M8GyoWezorKA9lKwHSbNpT5WN_o)
+* 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/folders/1jICi6M8GyoWezorKA9lKwHSbNpT5WN_o)
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/soumit-barate-05b22b400/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumit barate" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Soumit Barate" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a> 
+<h3 align="left">Technologies and Tools:</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45" height="45" alt="Hadoop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45" height="45" alt="Apache Spark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Apache Kafka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="45" height="45" alt="Apache Airflow"/>
 </p>
